@@ -1,0 +1,6 @@
+[submodule "mysterians"]
+	path = mysterians
+	url = https://github.com/reiver/reiver-mysterians
+[submodule "laser-force"]
+	path = laser-force
+	url = https://github.com/reiver/reiver-laser-force
